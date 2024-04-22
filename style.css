@@ -1,0 +1,77 @@
+
+.navbar-brand{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 150px;
+    cursor: pointer;
+}
+.nav-item{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 130px;
+    cursor: pointer;
+}
+.nav-link:hover{
+    color:grey;
+}
+
+.btn{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.carousel-item{
+    text-align: center;
+    align-items: center;
+    padding-top: 25px;
+}
+.container{
+    font-size: 35px;
+    font-family: sans-serif bold;
+    margin-top: 35px;
+    padding-bottom: 0;
+}
+hr.style1{
+	border-top: 1px solid #ff0000;
+}
+.Financing{
+    margin-top: 5px;
+}
+.head{
+    font-size: 10px;
+    font-family: sans-serif;
+}
+ul,li{
+    list-style-type: none;
+    list-style: none;
+}
+.item li a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.containers{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.item li:hover{
+    color:  grey;
+    cursor: pointer;
+}
+.text{
+    
+    font-size: 7px;
+    font-family: sans-serif;
+}
+
+.prod{
+    padding-left: 22px;
+}
+.context{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.fab:hover{
+    color: grey;
+    
+}
